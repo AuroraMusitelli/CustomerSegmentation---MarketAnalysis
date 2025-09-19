@@ -4,4 +4,9 @@ Group project analyzing customer segmentation for a hypothetical perfumery compa
 
 [Customer Segmentation (Italian version)](https://github.com/AuroraMusitelli/CustomerSegmentation---MarketAnalysis/blob/main/CustomerSegmentation.pdf)
 
-📎 Tags: Tandem analysis | Conjoint analysis | Marketing mix
+[📊 Tandem Analysis](https://github.com/AuroraMusitelli/CustomerSegmentation---MarketAnalysis/blob/main/TandemAnalysis.spv)
+[📊 Conjoint Analysis](https://github.com/AuroraMusitelli/CustomerSegmentation---MarketAnalysis/blob/main/ConjointAnalysis.spv)
+[📊 Group Profiling](https://github.com/AuroraMusitelli/CustomerSegmentation---MarketAnalysis/blob/main/GroupProfiling.xlsx)
+[📊 Marketing Mix](https://github.com/AuroraMusitelli/CustomerSegmentation---MarketAnalysis/blob/main/MarketingMix.xlsx)
+
+📎 Tags: Tandem Analysis | Conjoint Analysis | Marketing Mix
